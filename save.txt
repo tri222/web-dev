@@ -1,0 +1,27 @@
+ <div class="dashboard-section " id="topics">
+    <div class="dashboard-section-header">
+      <h2 class="text-para">Prepare By Topics</h2>
+    </div>
+    <div class="dashboard-section-grid">
+      <div class="dashboard-topics">
+        <div class="card-content">
+          <ul class="topics-list">
+            <li class="topic-card">
+            <a data-analytics="SelectTopic" data-event-label="SelectTopic" data-event-category="HRC Interview Prep" data-attr1="algorithms" data-attr11="false" data-cd-topic-slug="algorithms" class="topic-link" href="/domains/algorithms">
+              <div class="topic-item bold">
+                <div class="topic-name" data-automation="algorithms">Algorithms</div>
+              </div>
+              </a>
+            </li>
+            <li class="topic-card">
+              <a data-analytics="SelectTopic" data-event-label="SelectTopic" data-event-category="HRC Interview Prep" data-attr1="algorithms" data-attr11="false" data-cd-topic-slug="algorithms" class="topic-link" href="/domains/algorithms">
+                <div class="topic-item bold">
+                  <div class="topic-name" data-automation="data structures">Data structures</div>
+                </div>
+                </a>
+              </li>
+          </div>
+      </div>
+    </div>
+
+  </div>
